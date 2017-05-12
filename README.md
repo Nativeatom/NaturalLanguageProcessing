@@ -1,4 +1,4 @@
-## Natural Language Processing
+# Natural Language Processing
 ** Natural Language Processing
 
 - - -
@@ -10,12 +10,12 @@
 
 ## 经典教材 Textbook
 
-# Natural Language Processing
+### Natural Language Processing
 - [统计自然语言处理 宗成庆]
 
 - [统计自然语言处理基础 Christoph Manning]
 
-# Statistic Learning
+### Statistic Learning
 
 - [统计学习方法 李航]
 
