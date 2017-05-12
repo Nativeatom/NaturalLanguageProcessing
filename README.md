@@ -35,3 +35,9 @@
  ## 论文 Paper
  
  - [word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+
+- - -
+
+## 相关资料 Zhihu
+
+- [自然语言处理怎么最快入门](https://www.zhihu.com/question/19895141)
