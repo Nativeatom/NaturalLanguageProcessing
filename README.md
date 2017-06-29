@@ -1,7 +1,7 @@
 # NaturalLanguageProcesing
 This repository includes basic concepts of Natural Language Processing, textbooks and blogs of good reputation, popular papers and so on.   
 
-## Text Books and lectures
+## Text Books and Lecture
 * Manning 统计自然语言处理基础
 * 李航 统计学习方法
 * [Advanced Natural Language Processing - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/index.htm)
@@ -9,11 +9,20 @@ This repository includes basic concepts of Natural Language Processing, textbook
 * [Deep Learning for NLP at Oxford with Deepmind - Oxford](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 * [Some Knowledge about Machine Learning](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 
-## Models
+## Models and Applications
+- Hidden Markov Model
+- Recurrent Neuron Network
+    - LSTM
+- Convolutional Neuron Network
+- Attention Model
+- Generative Adversial Network
 
 ## Blog and Tutorials
 
-## Tasks
+## Tasks and Papers
+
+### Summerization
+- [Get To The Point: Summarization with Pointer-Generator Networks - Stanford](https://nlp.stanford.edu/pubs/see2017get.pdf)
 
 ### Understanding
 - Parsing
@@ -23,6 +32,7 @@ This repository includes basic concepts of Natural Language Processing, textbook
 - Sentimental Extraction
 
 ### Machine Translation
+- [Attention is all you need - Google and UT](https://arxiv.org/pdf/1706.03762.pdf)
 
 ### Text Generation
 - Conversation System
@@ -32,4 +42,14 @@ This repository includes basic concepts of Natural Language Processing, textbook
 - Spam
 - Sentimental Analysis
 
-## Papers
+## Dataset
+
+## Package
+- Machine Learning package
+    - Tensorflow
+    - Caffe2
+    - Pytorch
+- nltk
+- gensim
+- jieba
+- Stanford NLP 
