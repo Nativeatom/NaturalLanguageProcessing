@@ -12,8 +12,7 @@ This repository includes basic concepts of Natural Language Processing, textbook
 ## Models and Applications
 - Hidden Markov Model
 - Recurrent Neuron Network
-    - Seq2Seq
-     - [Tensorflow Tutorial](https://github.com/llSourcell/seq2seq_model_live/blob/master/2-seq2seq-advanced.ipynb)
+    - Seq2Seq([Tensorflow Tutorial](https://github.com/llSourcell/seq2seq_model_live/blob/master/2-seq2seq-advanced.ipynb))
     - LSTM
 - Convolutional Neuron Network
 - Attention Model
