@@ -27,6 +27,7 @@ This repository includes basic concepts of Natural Language Processing, textbook
 
 ### Understanding
 - Parsing
+- Entity Tagging
 
 ### Extraction
 - Topic Extraction
