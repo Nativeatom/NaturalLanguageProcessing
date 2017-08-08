@@ -23,7 +23,10 @@ This repository includes basic concepts of Natural Language Processing, textbook
 ## Tasks and Papers
 
 ### Summerization
-- [Get To The Point: Summarization with Pointer-Generator Networks - Stanford](https://nlp.stanford.edu/pubs/see2017get.pdf)
+- News
+    -[Get To The Point: Summarization with Pointer-Generator Networks - Stanford](https://nlp.stanford.edu/pubs/see2017get.pdf)
+    
+- Articles
 
 ### Understanding
 - Parsing
@@ -43,6 +46,10 @@ This repository includes basic concepts of Natural Language Processing, textbook
 ### Classification
 - Spam
 - Sentimental Analysis
+
+### Dialogue
+
+### Question and Answering
 
 ## Dataset
 
