@@ -2,6 +2,18 @@
 This repository includes basic concepts of Natural Language Processing, textbooks and blogs of good reputation, popular papers and so on.   
 
 ## Text Books and Lecture
+
+### Mathemetical and Statistical Foundation
+
+### Machine Learning
+* [The Elements of Statistical Learning(ESL) - HTF](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+
+### Deep Learning
+* [Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://github.com/HFTrader/DeepLearningBook)
+* [CS231n Convolutional Neural Networks for Visual Recognition - Stanford](http://cs231n.stanford.edu/)
+
+
+### Natural Language Processing
 * Manning 统计自然语言处理基础
 * 李航 统计学习方法
 * [Advanced Natural Language Processing - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/index.htm)
@@ -19,6 +31,7 @@ This repository includes basic concepts of Natural Language Processing, textbook
 - Generative Adversial Network
 
 ## Blog and Tutorials
+- [Tensorflow implement on RNN and undocumented features](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
 
 ## Tasks and Papers
 
@@ -58,6 +71,7 @@ This repository includes basic concepts of Natural Language Processing, textbook
     - Tensorflow
     - Caffe2
     - Pytorch
+    - Mxnet
 - nltk
 - gensim
 - jieba
