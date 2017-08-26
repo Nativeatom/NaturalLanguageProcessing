@@ -25,6 +25,7 @@ This repository includes basic concepts of Natural Language Processing, textbook
 - Hidden Markov Model
 - Recurrent Neuron Network
     - Seq2Seq([Tensorflow Tutorial](https://github.com/llSourcell/seq2seq_model_live/blob/master/2-seq2seq-advanced.ipynb))
+          - [Machine Translation Tensorflow implement](https://github.com/tensorflow/nmt)  
     - LSTM
 - Convolutional Neuron Network
 - Attention Model
@@ -50,7 +51,7 @@ This repository includes basic concepts of Natural Language Processing, textbook
 - Sentimental Extraction
 
 ### Machine Translation
-- [Attention is all you need - Google and UT](https://arxiv.org/pdf/1706.03762.pdf)
+- [Attention is all you need - Google and University of Toronto](https://arxiv.org/pdf/1706.03762.pdf)
 
 ### Text Generation
 - Conversation System
