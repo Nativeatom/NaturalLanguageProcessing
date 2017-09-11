@@ -14,8 +14,8 @@ This repository includes basic concepts of Natural Language Processing, textbook
 
 
 ### Natural Language Processing
-* [Foundations of Statistical Natural Language Processing - 
-    Chris Manning] 
+* Foundations of Statistical Natural Language Processing - 
+    Chris Manning
 * 统计学习方法 - 李航
 * [Advanced Natural Language Processing - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/index.htm)
 * [CS 224n Natural Language Processing with Deep Learning - Stanford](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/index.htm)
