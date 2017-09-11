@@ -14,8 +14,9 @@ This repository includes basic concepts of Natural Language Processing, textbook
 
 
 ### Natural Language Processing
-* Manning 统计自然语言处理基础
-* 李航 统计学习方法
+* [Foundations of Statistical Natural Language Processing - 
+    Chris Manning] 
+* 统计学习方法 - 李航
 * [Advanced Natural Language Processing - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/index.htm)
 * [CS 224n Natural Language Processing with Deep Learning - Stanford](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/index.htm)
 * [Deep Learning for NLP at Oxford with Deepmind - Oxford](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
@@ -72,7 +73,7 @@ This repository includes basic concepts of Natural Language Processing, textbook
     - Tensorflow
     - Caffe2
     - Pytorch
-    - Mxnet
+    - MXnet
 - nltk
 - gensim
 - jieba
