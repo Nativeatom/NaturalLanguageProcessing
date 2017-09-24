@@ -37,11 +37,13 @@ This repository includes basic concepts of Natural Language Processing, textbook
 
 ## Tasks and Papers
 
-### Summerization
+### [Summerization](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Summerization)
 - News
     -[Get To The Point: Summarization with Pointer-Generator Networks - Stanford](https://nlp.stanford.edu/pubs/see2017get.pdf)
     
 - Articles
+
+### [Embedding](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Embedding)
 
 ### Understanding
 - Parsing
