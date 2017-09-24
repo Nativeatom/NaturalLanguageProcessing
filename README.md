@@ -39,15 +39,14 @@ This repository includes basic concepts of Natural Language Processing, textbook
 
 ### [Summerization](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Summerization)
 - News
-    -[Get To The Point: Summarization with Pointer-Generator Networks - Stanford](https://nlp.stanford.edu/pubs/see2017get.pdf)
     
 - Articles
 
 ### [Embedding](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Embedding)
 
-### Understanding
-- Parsing
-- Entity Tagging
+### Name Entity Recognition
+
+### Parsing
 
 ### Extraction
 - Topic Extraction
@@ -57,8 +56,6 @@ This repository includes basic concepts of Natural Language Processing, textbook
 - [Attention is all you need - Google and University of Toronto](https://arxiv.org/pdf/1706.03762.pdf)
 
 ### Text Generation
-- Conversation System
-- Answering System
 
 ### Classification
 - Spam
@@ -66,9 +63,7 @@ This repository includes basic concepts of Natural Language Processing, textbook
 
 ### Dialogue
 
-### Question and Answering
-
-## Dataset
+### Q&A
 
 ## Package
 - Machine Learning package
