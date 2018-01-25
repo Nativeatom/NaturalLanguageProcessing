@@ -43,6 +43,7 @@ This repository includes basic concepts of Natural Language Processing, textbook
 - Articles
 
 ### [Embedding](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Embedding)
+- Word2Vec
 
 ### Name Entity Recognition
 
