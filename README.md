@@ -96,6 +96,9 @@ This repository includes basic concepts of Natural Language Processing, textbook
 
 [及时更新fork项目](https://jinlong.github.io/2015/10/12/syncing-a-fork/)
 
+[如何使用git提交](http://blog.csdn.net/u012150179/article/details/17172211)
+
+[Fetch and Merge in Git](https://www.oschina.net/translate/git-fetch-and-merge?print)
 
 #### [贡献者 Contributors](https://github.com/Nativeatom/NaturalLanguageProcessing/blob/master/Contributors.md)
 
