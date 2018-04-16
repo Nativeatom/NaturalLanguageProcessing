@@ -58,7 +58,7 @@ Contributors are welcomed to work together and make it BETTER!
 ### Parsing
 
 ### Extraction
-- Model
+- Tasks
     - Topic Extraction
     - Sentimental Extraction
     - Aspect Extraction
@@ -69,15 +69,24 @@ Contributors are welcomed to work together and make it BETTER!
 ### Text Generation
 
 ### Classification
-- Spam
-- Sentimental Analysis
+- Task
+    - Spam Classification
+    - Sentimental Analysis
+- Model
+- Dataset
+    - Yelp Dataset
 
 ### Dialogue
 
 ### Question and Answering
+- Task
+- Model
+- Dataset
+    - [CNN/DailyMail](https://cs.nyu.edu/~kcho/DMQA/)
 
 ## Package
 - Machine Learning package
+    - sci-learn
     - Tensorflow
     - Caffe2
     - Pytorch
@@ -86,7 +95,6 @@ Contributors are welcomed to work together and make it BETTER!
 - gensim
 - jieba
 - Stanford NLP 
-
 
 
 ## 如何加入 How to contribute
