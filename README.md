@@ -30,7 +30,7 @@ This repository includes basic concepts of Natural Language Processing, textbook
     - LSTM
 - Convolutional Neuron Network
 - Attention Model
-    - Overview[Chinese](https://blog.csdn.net/BVL10101111/article/details/78470716)
+    - Overview([Chinese](https://blog.csdn.net/BVL10101111/article/details/78470716))
 - Generative Adversial Network
 
 ## Blog and Tutorials
