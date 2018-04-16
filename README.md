@@ -1,5 +1,9 @@
 # NaturalLanguageProcesing
-This repository includes basic concepts of Natural Language Processing, textbooks and blogs of good reputation, popular papers and so on.   
+This repository includes basic concepts of Natural Language Processing, textbooks and blogs of good reputation, popular papers and so on.  
+
+This is also the Natural Language Processing part of [Machine Learning Resources](https://github.com/jindongwang/MachineLearning) created by a group of people including [jindongwang](https://github.com/jindongwang).
+
+Contributors are welcomed to work together and make it BETTER!
 
 ## Text Books and Lecture
 
@@ -39,20 +43,25 @@ This repository includes basic concepts of Natural Language Processing, textbook
 ## Tasks and Papers
 
 ### [Summerization](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Summerization)
-- News
-    
-- Articles
+- Model
+    - Extractive
+    - Generative
+- Dataset
+    - [CNN/DailyMail](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail)
 
 ### [Embedding](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Embedding)
-- Word2Vec
+- Model
+    - Word2Vec
 
 ### Name Entity Recognition
 
 ### Parsing
 
 ### Extraction
-- Topic Extraction
-- Sentimental Extraction
+- Model
+    - Topic Extraction
+    - Sentimental Extraction
+    - Aspect Extraction
 
 ### Machine Translation
 - [Attention is all you need - Google and University of Toronto](https://arxiv.org/pdf/1706.03762.pdf)
@@ -65,7 +74,7 @@ This repository includes basic concepts of Natural Language Processing, textbook
 
 ### Dialogue
 
-### Q&A
+### Question and Answering
 
 ## Package
 - Machine Learning package
@@ -73,7 +82,7 @@ This repository includes basic concepts of Natural Language Processing, textbook
     - Caffe2
     - Pytorch
     - MXnet
-- nltk
+- NLTK
 - gensim
 - jieba
 - Stanford NLP 
