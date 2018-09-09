@@ -40,8 +40,8 @@ Contributors are welcomed to work together and make it BETTER!
 ## Blog and Tutorials
 - [Tensorflow implement on RNN and undocumented features](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
 
-## Tasks and Papers
-
+## Topics and Tasks
+Category of areas is based on tracks in ACL 2018
 ### [Summerization](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Summerization)
 - Model
     - Extractive
@@ -53,11 +53,21 @@ Contributors are welcomed to work together and make it BETTER!
 - Model
     - Word2Vec
 
+### Sentimental Analysis and Argument Mining
+
 ### Name Entity Recognition
 
-### Parsing
+### Tagging, Chunking, Syntax and Parsing
 
-### Extraction
+### Machine Translation
+
+### Document Analysis
+
+### Sentence-level Semantics
+ 
+### Word-level Semantics
+
+### Information Extraction and Text Mining
 - Tasks
     - Topic Extraction
     - Sentimental Extraction
@@ -68,21 +78,33 @@ Contributors are welcomed to work together and make it BETTER!
 
 ### Text Generation
 
-### Classification
+### Text Classification
 - Task
     - Spam Classification
-    - Sentimental Analysis
 - Model
 - Dataset
-    - Yelp Dataset
+    - [Yelp Dataset](https://www.yelp.com/dataset/challenge)
 
-### Dialogue
+### Dialogue and Interactive Systems
 
-### Question and Answering
+### Question Answering
 - Task
 - Model
 - Dataset
     - [CNN/DailyMail](https://cs.nyu.edu/~kcho/DMQA/)
+
+### Resources and Evaluation
+
+### Linguistic Theories and Cognitive Modeling
+
+### Multilinguality
+
+### Phonology, Morphology and Word Segmentation
+
+### Textual Inference
+
+### Vision, Robotics, Speech, Multimodal
+
 
 ## Package
 - Machine Learning package
