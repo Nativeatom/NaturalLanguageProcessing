@@ -76,7 +76,7 @@ Category of areas is based on tracks in ACL 2018
  
 ### Word-level Semantics
 
-### Information Extraction and Text Mining
+### [Information Extraction and Text Mining](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Informaiton%20Extraction%20and%20Text%20Mining)
 - Tasks
     - Topic Extraction
     - Sentimental Extraction
