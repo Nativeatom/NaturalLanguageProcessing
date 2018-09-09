@@ -9,7 +9,7 @@ Contributors are welcomed to work together and make it BETTER!
 
 ### Mathemetical and Statistical Foundation
 * Linear Algebrap
-  - 18.06 MIT[[pdf](http://www.math.hcmus.edu.vn/~bxthang/Linear%20algebra%20and%20its%20applications.pdf)][[video](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)]
+  - 18.06 MIT(Gilbert Strang)[[pdf](http://www.math.hcmus.edu.vn/~bxthang/Linear%20algebra%20and%20its%20applications.pdf)][[video](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)]
 
 * Matrix Analysis
 
