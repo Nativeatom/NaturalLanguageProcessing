@@ -5,7 +5,7 @@ This is also the Natural Language Processing part of [Machine Learning Resources
 
 Contributors are welcomed to work together and make it BETTER!
 
-## Text Books and Lecture
+## Resource of Textbooks and Lectures
 
 ### Mathemetical and Statistical Foundation
 
