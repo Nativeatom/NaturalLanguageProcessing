@@ -29,6 +29,7 @@ Contributors are welcomed to work together and make it BETTER!
 ### Natural Language Processing
 * Foundations of Statistical Natural Language Processing - 
     Chris Manning
+* [Speech and Language Processing - Daniel Jurafsky and James H. Martin](http://www.cs.colorado.edu/~martin/slp2.html#Chapter3)
 * 统计学习方法 - 李航
 * [Advanced Natural Language Processing - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/index.htm)
 * [CS 224n Natural Language Processing with Deep Learning - Stanford](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/index.htm)
