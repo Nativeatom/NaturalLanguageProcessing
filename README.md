@@ -62,6 +62,9 @@ Category of areas is based on tracks in ACL 2018
 ### [Embedding](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Embedding)
 - Model
     - Word2Vec
+- Pre-trained embedding
+    - Glove
+    - word2vec
 
 ### Sentimental Analysis and Argument Mining
 
@@ -94,6 +97,7 @@ Category of areas is based on tracks in ACL 2018
 - Model
 - Dataset
     - [Yelp Dataset](https://www.yelp.com/dataset/challenge)
+    - [IMDB](https://www.imdb.com/interfaces/)
 
 ### Dialogue and Interactive Systems
 
@@ -138,15 +142,13 @@ Category of areas is based on tracks in ACL 2018
 	- (墙内)目前没有找到比较好的方式，只能通过链接，或者自己网盘的链接来做。
 	- (墙外)首先在[UPLOAD](https://my.pcloud.com/#page=puplink&code=4e9Z0Vwpmfzvx0y2OqTTTMzkrRUz8q9V)直接上传（**不**需要注册账号）；上传成功后，在[DOWNLOAD](https://my.pcloud.com/publink/show?code=kZWtboZbDDVguCHGV49QkmlLliNPJRMHrFX)里找到你刚上传的文件，共享链接即可。
 
-
-
 ## 如何开始项目协同合作
 
-[快速了解github协同工作](http://hucaihua.cn/2016/12/02/github_cooperation/)
+[快速了解github协同工作 Learn how to collaborate through github](http://hucaihua.cn/2016/12/02/github_cooperation/)
 
-[及时更新fork项目](https://jinlong.github.io/2015/10/12/syncing-a-fork/)
+[及时更新fork项目 Update through fork](https://jinlong.github.io/2015/10/12/syncing-a-fork/)
 
-[如何使用git提交](http://blog.csdn.net/u012150179/article/details/17172211)
+[如何使用git提交 How to submit in git](http://blog.csdn.net/u012150179/article/details/17172211)
 
 [Fetch and Merge in Git](https://www.oschina.net/translate/git-fetch-and-merge?print)
 
