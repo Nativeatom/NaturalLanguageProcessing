@@ -35,17 +35,22 @@ Contributors are welcomed to work together and make it BETTER!
 * [CS 224n Natural Language Processing with Deep Learning - Stanford](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/index.htm)
 * [Deep Learning for NLP at Oxford with Deepmind - Oxford](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 * [Some Knowledge about Machine Learning](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
+* [A list of datasets](https://github.com/awesomedata/awesome-public-datasets#naturallanguage)
 
 ## Models and Applications
-- Hidden Markov Model
-- Recurrent Neuron Network
-    - Seq2Seq([Tensorflow Tutorial](https://github.com/llSourcell/seq2seq_model_live/blob/master/2-seq2seq-advanced.ipynb))
+- Probalistic Graphical Model
+    - Hidden Markov Model
+    - Conditional Random Fields
+    
+- Deep Learning Model
+    - Recurrent Neuron Network
+          - Seq2Seq([Tensorflow Tutorial](https://github.com/llSourcell/seq2seq_model_live/blob/master/2-seq2seq-advanced.ipynb))
           - [Machine Translation Tensorflow implement](https://github.com/tensorflow/nmt)  
-    - LSTM
-- Convolutional Neuron Network
-- Attention Model
-    - Overview([Chinese](https://blog.csdn.net/BVL10101111/article/details/78470716))
-- Generative Adversial Network
+          - LSTM
+   - Convolutional Neuron Network
+   - Attention Model
+         - Overview([Chinese](https://blog.csdn.net/BVL10101111/article/details/78470716))
+   - Generative Adversial Network(GAN)
 
 ## Blog and Tutorials
 - [Tensorflow implement on RNN and undocumented features](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
@@ -118,6 +123,7 @@ Category of areas is based on tracks in ACL 2018
 - Dataset
     - [Linguistic Data Consortium](https://catalog.ldc.upenn.edu/) [[list](https://github.com/isi-nlp/mt_lit_lrec16/tree/master/ontology)] [[ordered by year](https://linguistics.cornell.edu/language-corpora)]
     - [[List of Chinese Dataset](https://github.com/Lab41/sunny-side-up/wiki/Chinese-Datasets)]
+    - [[Cantonese Dataset](http://compling.hss.ntu.edu.sg/hkcancor/)]
 
 ### Phonology, Morphology and Word Segmentation
 
