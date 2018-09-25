@@ -110,6 +110,10 @@ Category of areas is based on tracks in ACL 2018
 ### Resources and Evaluation
 
 ### Linguistic Theories and Cognitive Modeling
+- Task
+- Model
+- Dataset
+    - [Linguistic Data Consortium](https://catalog.ldc.upenn.edu/)[list](https://github.com/isi-nlp/mt_lit_lrec16/tree/master/ontology)
 
 ### Multilinguality
 
