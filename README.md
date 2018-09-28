@@ -122,8 +122,11 @@ Category of areas is based on tracks in ACL 2018
 - Model
 - Dataset
     - [Linguistic Data Consortium](https://catalog.ldc.upenn.edu/) [[list](https://github.com/isi-nlp/mt_lit_lrec16/tree/master/ontology)] [[ordered by year](https://linguistics.cornell.edu/language-corpora)]
-    - [[List of Chinese Dataset](https://github.com/Lab41/sunny-side-up/wiki/Chinese-Datasets)]
-    - [[Cantonese Dataset](http://compling.hss.ntu.edu.sg/hkcancor/)]
+    	  - [CALLFRIEND Mandarin - Mainland Dialect](https://catalog.ldc.upenn.edu/LDC96S55)
+	  - [CALLHOME Mandarin Chinese](https://catalog.ldc.upenn.edu/LDC2008T17)
+	  - [Chinese-English Name Entity List](https://catalog.ldc.upenn.edu/LDC2005T34)
+    - [List of Chinese Dataset](https://github.com/Lab41/sunny-side-up/wiki/Chinese-Datasets)
+    - [Cantonese Dataset](http://compling.hss.ntu.edu.sg/hkcancor/)
 
 ### Phonology, Morphology and Word Segmentation
 
