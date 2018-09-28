@@ -1,4 +1,4 @@
-# NaturalLanguageProcesing
+# Natural Language Procesing
 This repository includes basic concepts of Natural Language Processing, textbooks and blogs of good reputation, popular papers and so on.  
 
 This is also the Natural Language Processing part of [Machine Learning Resources](https://github.com/jindongwang/MachineLearning) created by a group of people including [jindongwang](https://github.com/jindongwang).
