@@ -54,6 +54,7 @@ Contributors are welcomed to work together and make it BETTER!
 
 ## Blog and Tutorials
 - [Tensorflow implement on RNN and undocumented features](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](https://web.stanford.edu/class/cs379c/class_messages_listing/content/Artificial_Neural_Network_Technology_Tutorials/KarparthyUNREASONABLY-EFFECTIVE-RNN-15.pdf)
 
 ## Topics and Tasks
 Category of areas is based on tracks in ACL 2018
