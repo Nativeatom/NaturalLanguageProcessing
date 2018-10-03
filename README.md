@@ -135,7 +135,7 @@ Category of areas is based on tracks in ACL 2018
     - [List of Chinese Dataset](https://github.com/Lab41/sunny-side-up/wiki/Chinese-Datasets)
     - [Cantonese Dataset](http://compling.hss.ntu.edu.sg/hkcancor/)
 
-### Phonology, Morphology and Word Segmentation
+### [Phonology, Morphology and Word Segmentation](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Phonology%20Morphology%20and%20Word%20Segment)
 
 ### Textual Inference
 
