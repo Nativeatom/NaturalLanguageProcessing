@@ -127,7 +127,7 @@ Category of areas is based on tracks in ACL 2018
 
 ### Linguistic Theories and Cognitive Modeling
 
-### Multilinguality
+### [Multilinguality](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Multilinguality)
 - Task
     - Code-Switching
     - Mutilingual Translation
