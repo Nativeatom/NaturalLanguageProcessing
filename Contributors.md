@@ -2,4 +2,4 @@
 
 | Contributor | Affiliation |
 | ----------- | ----------- |
-| [Nativeatom](https://github.com/Nativeatom) | Nanjing University |
+| [Nativeatom](https://github.com/Nativeatom) | Carnegie Mellon University |
