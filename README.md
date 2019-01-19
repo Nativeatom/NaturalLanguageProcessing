@@ -122,6 +122,8 @@ Category of areas is based on tracks in ACL 2018
 - Model
 - Dataset
     - [CNN/DailyMail](https://cs.nyu.edu/~kcho/DMQA/)
+    - [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) 
+    	  - Benchmark: 86.967(F1)[BERT + Synthetic Self-Training (ensemble)](https://github.com/google-research/bert) Jan 10, 2019
 
 ### Resources and Evaluation
 
