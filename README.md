@@ -44,17 +44,21 @@ Contributors are welcomed to work together and make it BETTER!
     - Conditional Random Fields
 
 - Topic Model
-    - Latent Dirichlet Allocation[paper](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+    - Latent Dirichlet Allocation([paper])(http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
  
 - Deep Learning Model
+    - [Long Short Term Memory(LSTM)](https://www.bioinf.jku.at/publications/older/2604.pdf) *Sepp Hochreiter, 1997*
+    	  - [Interpretation](https://arxiv.org/pdf/1805.03716.pdf) *Omer Levy, UWashington, 2018* 
     - Recurrent Neuron Network
           - Seq2Seq([Tensorflow Tutorial](https://github.com/llSourcell/seq2seq_model_live/blob/master/2-seq2seq-advanced.ipynb))
           - [Machine Translation Tensorflow implement](https://github.com/tensorflow/nmt)  
-          - LSTM
    - Convolutional Neuron Network
    - Attention Model
          - Overview([Chinese](https://blog.csdn.net/BVL10101111/article/details/78470716))
    - Generative Adversial Network(GAN)
+   - Transformer
+   	- [Training Tips](https://arxiv.org/abs/1804.00247)
+   - [Bidirectional Encoder Representation from Transformers(BERT)](https://arxiv.org/abs/1810.04805) *Jacob Devlin, Google 2018*
 
 ## Blog and Tutorials
 - [Tensorflow implement on RNN and undocumented features](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
@@ -72,9 +76,11 @@ Category of areas is based on tracks in ACL 2018
 ### [Embedding](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Embedding)
 - Model
     - Word2Vec
+    - ELMo
 - Pre-trained embedding
     - Glove
     - word2vec
+    - ELMo
 
 ### Sentimental Analysis and Argument Mining
 
@@ -86,7 +92,6 @@ Category of areas is based on tracks in ACL 2018
 - Model
     - Hidden Markov Model(HMM)
     - Conditional Random Fields(CRFs)
-
 
 ### Machine Translation
 
@@ -109,7 +114,7 @@ Category of areas is based on tracks in ACL 2018
 
 ### Text Classification
 - Task
-    - Spam Classification
+    - SPAM Classification
 - Model
 - Dataset
     - [Yelp Dataset](https://www.yelp.com/dataset/challenge)
@@ -123,7 +128,7 @@ Category of areas is based on tracks in ACL 2018
 - Dataset
     - [CNN/DailyMail](https://cs.nyu.edu/~kcho/DMQA/)
     - [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) 
-    	  - Benchmark: 86.967(F1)[BERT + Synthetic Self-Training (ensemble)](https://github.com/google-research/bert) Jan 10, 2019
+    	  - Benchmark: 86.967(F1)[BERT + Synthetic Self-Training (ensemble)](https://github.com/google-research/bert) *Jan 10, 2019*
 
 ### Resources and Evaluation
 
@@ -160,7 +165,6 @@ Category of areas is based on tracks in ACL 2018
 - gensim
 - jieba
 - Stanford NLP 
-
 
 ## 如何加入 How to contribute
 
