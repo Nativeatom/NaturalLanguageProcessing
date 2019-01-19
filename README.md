@@ -8,7 +8,7 @@ Contributors are welcomed to work together and make it BETTER!
 ## Resource of Textbooks and Lectures
 
 ### Mathemetical and Statistical Foundation
-* Linear Algebrap
+* Linear Algebra
   - 18.06 MIT(Gilbert Strang)[[pdf](http://www.math.hcmus.edu.vn/~bxthang/Linear%20algebra%20and%20its%20applications.pdf)][[video](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)]
 
 * Matrix Analysis
@@ -20,11 +20,12 @@ Contributors are welcomed to work together and make it BETTER!
 
 ### Machine Learning
 * [The Elements of Statistical Learning(ESL) - HTF](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+* [CS228 Probabilistic Graphical Model - Stanford](https://cs.stanford.edu/~ermon/cs228/index.html)
+* [10708 Probabilistic Graphical Model - CMU](http://www.cs.cmu.edu/~epxing/Class/10708/index.html)
 
 ### Deep Learning
 * [Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://github.com/HFTrader/DeepLearningBook)
 * [CS231n Convolutional Neural Networks for Visual Recognition - Stanford](http://cs231n.stanford.edu/)
-
 
 ### Natural Language Processing
 * Foundations of Statistical Natural Language Processing - 
@@ -41,7 +42,10 @@ Contributors are welcomed to work together and make it BETTER!
 - Probalistic Graphical Model
     - Hidden Markov Model
     - Conditional Random Fields
-    
+
+- Topic Model
+    - Latent Dirichlet Allocation[paper](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+ 
 - Deep Learning Model
     - Recurrent Neuron Network
           - Seq2Seq([Tensorflow Tutorial](https://github.com/llSourcell/seq2seq_model_live/blob/master/2-seq2seq-advanced.ipynb))
@@ -126,12 +130,13 @@ Category of areas is based on tracks in ACL 2018
 ### Multilinguality
 - Task
     - Code-Switching
+    - Mutilingual Translation
 - Model
 - Dataset
     - [Linguistic Data Consortium](https://catalog.ldc.upenn.edu/) [[list](https://github.com/isi-nlp/mt_lit_lrec16/tree/master/ontology)] [[ordered by year](https://linguistics.cornell.edu/language-corpora)]
-        - [CALLFRIEND Mandarin - Mainland Dialect](https://catalog.ldc.upenn.edu/LDC96S55)
-	- [CALLHOME Mandarin Chinese](https://catalog.ldc.upenn.edu/LDC2008T17)
-	- [Chinese-English Name Entity List](https://catalog.ldc.upenn.edu/LDC2005T34)
+          - [CALLFRIEND Mandarin - Mainland Dialect](https://catalog.ldc.upenn.edu/LDC96S55)
+          - [CALLHOME Mandarin Chinese](https://catalog.ldc.upenn.edu/LDC2008T17)
+	  - [Chinese-English Name Entity List](https://catalog.ldc.upenn.edu/LDC2005T34)
     - [List of Chinese Dataset](https://github.com/Lab41/sunny-side-up/wiki/Chinese-Datasets)
     - [Cantonese Dataset](http://compling.hss.ntu.edu.sg/hkcancor/)
 
@@ -148,7 +153,7 @@ Category of areas is based on tracks in ACL 2018
     - Tensorflow
     - Caffe2
     - Pytorch
-    - MXnet
+    - MXNet
 - NLTK
 - gensim
 - jieba
