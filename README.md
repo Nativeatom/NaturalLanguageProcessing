@@ -44,7 +44,7 @@ Contributors are welcomed to work together and make it BETTER!
     - Conditional Random Fields
 
 - Topic Model
-    - Latent Dirichlet Allocation([paper])(http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+    - Latent Dirichlet Allocation([paper](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf))
  
 - Deep Learning Model
     - [Long Short Term Memory(LSTM)](https://www.bioinf.jku.at/publications/older/2604.pdf) *Sepp Hochreiter, 1997*
