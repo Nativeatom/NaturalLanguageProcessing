@@ -20,9 +20,10 @@
 
 ### Dataset and Benchmark
 #### HeartStone
-    - Zeyu Sun *[A Grammar-Based Structural CNN Decoder for Code Generation]*(https://arxiv.org/abs/1811.06837) **AAAI 19'**
-        - Accuracy: 30.3%
-        - BLEU: 79.6%
+* Benchmark
+** Zeyu Sun *[A Grammar-Based Structural CNN Decoder for Code Generation]*(https://arxiv.org/abs/1811.06837) **AAAI 19'**
+*** Accuracy: 30.3%
+*** BLEU: 79.6%
         
 #### Django
 #### WikiSQL
