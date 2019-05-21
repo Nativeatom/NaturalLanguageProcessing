@@ -98,6 +98,9 @@ Category of areas is based on tracks in ACL 2018
 ### Document Analysis
 
 ### Sentence-level Semantics
+- Tasks
+   - Semantic Parsing
+       - Code Generation
  
 ### Word-level Semantics
 
