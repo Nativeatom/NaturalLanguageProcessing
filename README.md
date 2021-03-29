@@ -35,6 +35,8 @@ Contributors are welcomed to work together and make it BETTER!
 * [Advanced Natural Language Processing - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/index.htm)
 * [CS 224n Natural Language Processing with Deep Learning - Stanford](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/index.htm)
 * [Deep Learning for NLP at Oxford with Deepmind - Oxford](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
+* [11-747 NN4NLP](http://www.phontron.com/class/nn4nlp2021/)
+* [11-737 Multilingual NLP](http://demo.clab.cs.cmu.edu/11737fa20/)
 * [Some Knowledge about Machine Learning](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 * [A list of datasets](https://github.com/awesomedata/awesome-public-datasets#naturallanguage)
 
@@ -177,6 +179,8 @@ Category of areas is based on tracks in ACL 2018
 
 ### Vision, Robotics, Speech, Multimodal
 
+### Language Modeling
+
 ## Resources and Benchmarks
 - [Huggingface Dataset](https://huggingface.co/datasets)
 - [GLUE](https://gluebenchmark.com/)
@@ -193,6 +197,7 @@ Category of areas is based on tracks in ACL 2018
 - gensim
 - jieba
 - Stanford NLP 
+- Transformers (huggingface)
 
 ## 如何加入 How to contribute
 
