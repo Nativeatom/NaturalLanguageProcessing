@@ -71,16 +71,31 @@ Category of areas is based on tracks in ACL 2018
     - Extractive
     - Generative
 - Dataset
+    - [XSum](https://github.com/EdinburghNLP/XSum)
     - [CNN/DailyMail](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail)
+    - NEWSROOM
+    - Multi-News
+    - Gigaword
+    - arXiv
+    - PubMed
+    - BIGPATENT
+    - WikiHow
+    - Reddit TIFU
+    - AESLC
+    - BillSum
 
 ### [Embedding](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Embedding)
 - Model
     - Word2Vec
-    - ELMo
-- Pre-trained embedding
+- Pre-trained Embedding
     - Glove
     - word2vec
+    - FastText
+- Contextual Word Embedding
     - ELMo
+    - GPT
+    - BERT
+    - XLNet
 
 ### Sentimental Analysis and Argument Mining
 
@@ -162,6 +177,10 @@ Category of areas is based on tracks in ACL 2018
 
 ### Vision, Robotics, Speech, Multimodal
 
+## Resources and Benchmarks
+- [Huggingface Dataset](https://huggingface.co/datasets)
+- [GLUE](https://gluebenchmark.com/)
+- [SuperGLUE](https://super.gluebenchmark.com/)
 
 ## Package
 - Machine Learning package
