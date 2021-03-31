@@ -119,7 +119,7 @@ Category of areas is based on tracks in ACL 2018
    - Semantic Parsing
        - Code Generation
 - Model
-   - Tranx
+   - [TRANX](https://www.aclweb.org/anthology/D18-2002/)
    
 - Dataset
  
@@ -185,10 +185,13 @@ Category of areas is based on tracks in ACL 2018
 - [Huggingface Dataset](https://huggingface.co/datasets)
 - [GLUE](https://gluebenchmark.com/)
 - [SuperGLUE](https://super.gluebenchmark.com/)
+- Leaderboards
+    - [NLP-Progress](http://nlpprogress.com/)
+    - [PaperwithCode](https://paperswithcode.com/sota)
 
 ## Package
-- Machine Learning package
-    - sci-learn
+- Machine Learning Package and Framework
+    - sciki-learn
     - Tensorflow
     - Caffe2
     - Pytorch
