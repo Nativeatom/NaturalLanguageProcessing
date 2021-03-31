@@ -131,8 +131,6 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 - Dataset
     - [PennTreeBank (PTB)](https://catalog.ldc.upenn.edu/LDC99T42)
 
-### Machine Translation
-
 ### Document Analysis
 
 ### [Sentence-level Semantics](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Sentence-level%20Semantics)
@@ -158,9 +156,14 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
     - Aspect Extraction
 
 ### Machine Translation
-- Papers
-    - [Attention is all you need - Google and University of Toronto](https://arxiv.org/pdf/1706.03762.pdf)
-
+- Task
+    - Machine Translation
+    - Non-autogressive Machine Translation
+    - Word-alignment
+- Model
+    - [Back-translation, ACL 2016](https://www.aclweb.org/anthology/P16-1009/)
+    - [Transformer, NeurIPS 2017](https://papers.nips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
+    
 ### Text Generation
 
 ### Text Classification
@@ -169,6 +172,7 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
     - Sentiment Analysis
 - Model
     - [CNN-sentence, EMNLP 2014](https://www.aclweb.org/anthology/D14-1181.pdf)
+    - [CharCNN, NeurIPS 2015](https://arxiv.org/pdf/1509.01626.pdf)
 - Dataset
     - [Yelp Dataset](https://www.yelp.com/dataset/challenge)
     - [IMDB](https://www.imdb.com/interfaces/)
@@ -286,7 +290,7 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
     - Lexical Substitution
     - Lexical Simplification
 - Model
-    - BERT-based Lexical Substitution, [[ACL 2019](https://www.aclweb.org/anthology/P19-1328/), [AAAI 2020](https://arxiv.org/pdf/2001.03521.pdf)]
+    - BERT-based Lexical Substitution/GEC, [[ACL 2019](https://www.aclweb.org/anthology/P19-1328/), [AAAI 2020](https://arxiv.org/pdf/2001.03521.pdf)]
 - Dataset
     - [ETS](https://www.ets.org/research/contact/data_requests/)
 
