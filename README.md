@@ -103,12 +103,25 @@ Category of areas is based on tracks in ACL 2018
 
 ### Name Entity Recognition
 
-### Tagging, Chunking, Syntax and Parsing
+### Tagging, Chunking
 - Task
     - Word Segmentation
+    - Syntactic Parsing
 - Model
-    - Hidden Markov Model(HMM)
-    - Conditional Random Fields(CRFs)
+    - Hidden Markov Model (HMM)
+    - Conditional Random Fields (CRFs)
+
+### Syntax, Parsing
+- Task
+    - Constituency Parsing
+    - Visual Grounded Syntactic Aquisition
+- Model
+    - [Unsupervised Recurrent Neural Network Grammars (URNNG), NAACL 2019](https://arxiv.org/abs/1904.03746)
+    - [Compound PCFG, ACL 2019](https://arxiv.org/abs/1906.10225)
+    - [Lexical Compound PCFG, TACL 2020](https://www.aclweb.org/anthology/2020.tacl-1.42/)
+    - [VG-NSL, ACL 2019](https://www.aclweb.org/anthology/P19-1180/)
+- Dataset
+    - [PennTreeBank (PTB)](https://catalog.ldc.upenn.edu/LDC99T42)
 
 ### Machine Translation
 
