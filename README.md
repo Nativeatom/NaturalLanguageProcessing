@@ -67,7 +67,7 @@ Contributors are welcomed to work together and make it BETTER!
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](https://web.stanford.edu/class/cs379c/class_messages_listing/content/Artificial_Neural_Network_Technology_Tutorials/KarparthyUNREASONABLY-EFFECTIVE-RNN-15.pdf)
 
 ## Topics and Tasks
-Category of areas is based on tracks in ACL 2018
+Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 ### [Summerization](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Summerization)
 - Model
     - Extractive
@@ -137,7 +137,9 @@ Category of areas is based on tracks in ACL 2018
    
 - Dataset
  
-### Word-level Semantics
+### Semantics: Lexical
+- Tasks
+    - Word Sense Disambiguation
 
 ### [Information Extraction and Text Mining](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Informaiton%20Extraction%20and%20Text%20Mining)
 - Tasks
@@ -153,16 +155,18 @@ Category of areas is based on tracks in ACL 2018
 ### Text Classification
 - Task
     - SPAM Classification
+    - Sentiment Analysis
 - Model
+    - [CNN-sentence, EMNLP 2014](https://www.aclweb.org/anthology/D14-1181.pdf)
 - Dataset
     - [Yelp Dataset](https://www.yelp.com/dataset/challenge)
     - [IMDB](https://www.imdb.com/interfaces/)
+    - [Stanford Sentiment Treebank (SST)](https://nlp.stanford.edu/sentiment/index.html)
 
 ### Dialogue and Interactive Systems
 
 ### Question Answering
 - Task
-- Model
 - Dataset
     - [CNN/DailyMail](https://cs.nyu.edu/~kcho/DMQA/)
     - [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) 
@@ -186,6 +190,7 @@ Category of areas is based on tracks in ACL 2018
 	- [Chinese-English Name Entity List](https://catalog.ldc.upenn.edu/LDC2005T34)
     - [List of Chinese Dataset](https://github.com/Lab41/sunny-side-up/wiki/Chinese-Datasets)
     - [Cantonese Dataset](http://compling.hss.ntu.edu.sg/hkcancor/)
+    - [SEAME (Mandarin-English Code-Switching in South-East Asia)](https://catalog.ldc.upenn.edu/LDC2015S04)
 
 ### [Phonology, Morphology and Word Segmentation](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Phonology%20Morphology%20and%20Word%20Segment)
 
@@ -194,6 +199,34 @@ Category of areas is based on tracks in ACL 2018
 ### Vision, Robotics, Speech, Multimodal
 
 ### Language Modeling
+
+### Computational Social Science and Social Media
+
+### Discourse and Pragmatics
+
+### Information Retrieval and Text Mining
+
+### Language Grounding to Vision, Robotics and Beyond
+
+### Machine Learning for NLP
+
+### Theory and Formalism in NLP
+
+### Ethics in NLP
+
+### Commonsense Knowledge
+- Tasks
+    - Fact Verification
+
+- Model
+
+- Dataset
+    - [FEVER](https://arxiv.org/abs/1803.05355)
+    - [FEVER 2.0 Shared Task, EMNLP 2019](https://www.aclweb.org/anthology/D19-6601/) [[FEVER@EMNLP2021](https://fever.ai/index.html)]
+
+### NLP Applications
+- Tasks
+    - Grammartical Error Correction [[BEA@NAACL2018](https://www.cs.rochester.edu/~tetreaul/naacl-bea13.html)][[BEA@ACL2019](https://sig-edu.org/bea/2019)][[BEA@ACL2020](https://sig-edu.org/bea/2020)][[BEA@EACL2021](https://sig-edu.org/bea/current)]
 
 ## Resources and Benchmarks
 - [Huggingface Dataset](https://huggingface.co/datasets)
