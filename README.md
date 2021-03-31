@@ -72,8 +72,11 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 - Model
     - Extractive
     - Generative
+        - [PointNet, ACL 2017](https://arxiv.org/pdf/1704.04368.pdf)
+        - [BART, ACL 2020](https://www.aclweb.org/anthology/2020.acl-main.703/)
+        - [Pegasus, ICML 2020](https://arxiv.org/pdf/1912.08777.pdf)
 - Dataset
-    - [XSum](https://github.com/EdinburghNLP/XSum)
+    - [XSum, EMNLP 2018](https://github.com/EdinburghNLP/XSum)[[paper](https://arxiv.org/abs/1808.08745)]
     - [CNN/DailyMail](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail)
     - NEWSROOM
     - Multi-News
@@ -98,6 +101,8 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
     - GPT
     - BERT
     - XLNet
+    - BART
+    - T-5
 
 ### Sentimental Analysis and Argument Mining
 
@@ -130,7 +135,9 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 ### [Sentence-level Semantics](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Sentence-level%20Semantics)
 - Tasks
    - Semantic Parsing
-       - AMR Parsing
+       - AMR-to-text
+       - Text-to-AMR
+       - Table-to-text
        - Code Generation
 - Model
    - [TRANX](https://www.aclweb.org/anthology/D18-2002/)
@@ -199,6 +206,40 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 ### Vision, Robotics, Speech, Multimodal
 
 ### Language Modeling
+- Tasks
+- Model
+    - N-gram
+    - ELMo
+    - GPT
+    - [GPT-2, arXiv 2019](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+    - [GPT-3, NeurIPS 2020](https://arxiv.org/pdf/2005.14165.pdf)
+    - [BERT, NAACL-2019](https://www.aclweb.org/anthology/N19-1423/)
+    	- [RoBERTa, arXiv 2019](https://arxiv.org/pdf/1907.11692.pdf)
+    	- [SpanBERT, TACL 2020](https://www.aclweb.org/anthology/2020.tacl-1.5/)
+    	- Efficient
+    		- [ALBERT, arXiv 2020](https://arxiv.org/abs/1909.11942)
+    		- [SqueezeBERT, SustainNLP@EMNLP 2020](https://www.aclweb.org/anthology/2020.sustainlp-1.17/)
+    	- Domain Specific
+    		- [SciBERT, EMNLP 2019](https://www.aclweb.org/anthology/D19-1371/)
+    		- [BioBERT, Bioinformatics 2019](https://arxiv.org/pdf/1901.08746.pdf)
+    		- [patentBERT, arXiv 2019](https://arxiv.org/abs/1906.02124)
+    		- [FinBERT, arXiv 2020](https://arxiv.org/abs/2006.08097)
+    		- [MedBERT, arXiv 2020](https://arxiv.org/pdf/2005.12833.pdf)[[code](https://github.com/ZhiGroup/Med-BERT)]
+    		- [ClinicalBERT, CHIL 2020](https://arxiv.org/abs/1904.05342)
+    		- [LEGAL-BERT, EMNLP Finding 2020](https://www.aclweb.org/anthology/2020.findings-emnlp.261/)
+    		- [Tutorial](https://mccormickml.com/2020/06/22/domain-specific-bert-tutorial/)
+    	- Langauge Specific [[Latin BERT](https://arxiv.org/abs/2009.10053), [German BERT](https://deepset.ai/german-bert), [Italian BERT](http://ceur-ws.org/Vol-2481/paper57.pdf), [Chinese BERT](https://arxiv.org/abs/2004.13922)]
+    	- [BERTology, TACL 2020](https://www.aclweb.org/anthology/2020.tacl-1.54/)
+    - [XLNet, NeurIPS 2019](https://arxiv.org/pdf/1906.08237.pdf)
+    - [MASS, ICML 2019](https://arxiv.org/pdf/1905.02450.pdf)[[code](https://github.com/microsoft/MASS)]
+    - [ELECTRA, ICLR 2020](https://openreview.net/forum?id=r1xMH1BtvB)[[code](https://github.com/google-research/electra)]
+    - [T5, JMLR 2020](https://arxiv.org/abs/1910.10683)
+    - [BART, ACL 2020](https://www.aclweb.org/anthology/2020.acl-main.703/)
+- Dataset
+    - [CommonCrawl](https://commoncrawl.org/)
+    - Wiki-Text
+    - STORIES
+    - [C4](https://arxiv.org/abs/1910.10683)[[huggingface](https://www.tensorflow.org/datasets/catalog/c4)]
 
 ### Computational Social Science and Social Media
 
@@ -217,16 +258,25 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 ### Commonsense Knowledge
 - Tasks
     - Fact Verification
+    - Commonsense Reasoning
 
 - Model
+    - [ConceptNet, AAAI 2017](https://conceptnet.io/)
+    - [COMET, ACL 2019](https://mosaickg.apps.allenai.org/)[[paper](https://www.aclweb.org/anthology/P19-1470/)]
 
 - Dataset
     - [FEVER](https://arxiv.org/abs/1803.05355)
     - [FEVER 2.0 Shared Task, EMNLP 2019](https://www.aclweb.org/anthology/D19-6601/) [[FEVER@EMNLP2021](https://fever.ai/index.html)]
+    - [CommonGen, EMNLP Finding 2020](https://inklab.usc.edu/CommonGen/)[[paper](https://arxiv.org/abs/1911.03705)]
+
+### Interpretability
 
 ### NLP Applications
 - Tasks
     - Grammartical Error Correction [[BEA@NAACL2018](https://www.cs.rochester.edu/~tetreaul/naacl-bea13.html)][[BEA@ACL2019](https://sig-edu.org/bea/2019)][[BEA@ACL2020](https://sig-edu.org/bea/2020)][[BEA@EACL2021](https://sig-edu.org/bea/current)]
+- Model
+- Dataset
+    - [ETS](https://www.ets.org/research/contact/data_requests/)
 
 ## Resources and Benchmarks
 - [Huggingface Dataset](https://huggingface.co/datasets)
