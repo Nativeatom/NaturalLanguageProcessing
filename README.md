@@ -76,7 +76,7 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
         - [BART, ACL 2020](https://www.aclweb.org/anthology/2020.acl-main.703/)
         - [Pegasus, ICML 2020](https://arxiv.org/pdf/1912.08777.pdf)
 - Dataset
-    - [XSum, EMNLP 2018](https://github.com/EdinburghNLP/XSum)[[paper](https://arxiv.org/abs/1808.08745)]
+    - [XSum, EMNLP 2018](https://github.com/EdinburghNLP/XSum) [[paper](https://arxiv.org/abs/1808.08745)]
     - [CNN/DailyMail](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail)
     - NEWSROOM
     - Multi-News
@@ -162,7 +162,10 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
     - Word-alignment
 - Model
     - [Back-translation, ACL 2016](https://www.aclweb.org/anthology/P16-1009/)
+    - [OpenNMT, ACL 2017](https://www.aclweb.org/anthology/P17-4012/) [[project](https://opennmt.net/)][[code](https://github.com/OpenNMT/OpenNMT-py)]
     - [Transformer, NeurIPS 2017](https://papers.nips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
+- Dataset
+    - WMT 
     
 ### Text Generation
 
@@ -232,22 +235,22 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
     		- [BioBERT, Bioinformatics 2019](https://arxiv.org/pdf/1901.08746.pdf)
     		- [patentBERT, arXiv 2019](https://arxiv.org/abs/1906.02124)
     		- [FinBERT, arXiv 2020](https://arxiv.org/abs/2006.08097)
-    		- [MedBERT, arXiv 2020](https://arxiv.org/pdf/2005.12833.pdf)[[code](https://github.com/ZhiGroup/Med-BERT)]
+    		- [MedBERT, arXiv 2020](https://arxiv.org/pdf/2005.12833.pdf) [[code](https://github.com/ZhiGroup/Med-BERT)]
     		- [ClinicalBERT, CHIL 2020](https://arxiv.org/abs/1904.05342)
     		- [LEGAL-BERT, EMNLP Finding 2020](https://www.aclweb.org/anthology/2020.findings-emnlp.261/)
     		- [Tutorial](https://mccormickml.com/2020/06/22/domain-specific-bert-tutorial/)
     	- Langauge Specific [[Latin BERT](https://arxiv.org/abs/2009.10053), [German BERT](https://deepset.ai/german-bert), [Italian BERT](http://ceur-ws.org/Vol-2481/paper57.pdf), [Chinese BERT](https://arxiv.org/abs/2004.13922)]
     	- [BERTology, TACL 2020](https://www.aclweb.org/anthology/2020.tacl-1.54/)
     - [XLNet, NeurIPS 2019](https://arxiv.org/pdf/1906.08237.pdf)
-    - [MASS, ICML 2019](https://arxiv.org/pdf/1905.02450.pdf)[[code](https://github.com/microsoft/MASS)]
-    - [ELECTRA, ICLR 2020](https://openreview.net/forum?id=r1xMH1BtvB)[[code](https://github.com/google-research/electra)]
+    - [MASS, ICML 2019](https://arxiv.org/pdf/1905.02450.pdf) [[code](https://github.com/microsoft/MASS)]
+    - [ELECTRA, ICLR 2020](https://openreview.net/forum?id=r1xMH1BtvB) [[code](https://github.com/google-research/electra)]
     - [T5, JMLR 2020](https://arxiv.org/abs/1910.10683)
     - [BART, ACL 2020](https://www.aclweb.org/anthology/2020.acl-main.703/)
 - Dataset
     - [CommonCrawl](https://commoncrawl.org/)
     - Wiki-Text
     - STORIES
-    - [C4](https://arxiv.org/abs/1910.10683)[[huggingface](https://www.tensorflow.org/datasets/catalog/c4)]
+    - [C4](https://arxiv.org/abs/1910.10683) [[huggingface](https://www.tensorflow.org/datasets/catalog/c4)]
 
 ### Computational Social Science and Social Media
 
@@ -274,13 +277,13 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 
 - Model
     - [ConceptNet, AAAI 2017](https://conceptnet.io/)
-    - [COMET, ACL 2019](https://mosaickg.apps.allenai.org/)[[paper](https://www.aclweb.org/anthology/P19-1470/)]
+    - [COMET, ACL 2019](https://mosaickg.apps.allenai.org/) [[paper](https://www.aclweb.org/anthology/P19-1470/)]
 
 - Dataset
     - [FEVER](https://arxiv.org/abs/1803.05355)
     - [FEVER 2.0 Shared Task, EMNLP 2019](https://www.aclweb.org/anthology/D19-6601/) [[FEVER@EMNLP2021](https://fever.ai/index.html)]
-    - [CommonGen, EMNLP Finding 2020](https://inklab.usc.edu/CommonGen/)[[paper](https://arxiv.org/abs/1911.03705)]
-    - [VitaminC, NAACL 2021](https://github.com/TalSchuster/VitaminC)[[paper](https://arxiv.org/abs/2103.08541)]
+    - [CommonGen, EMNLP Finding 2020](https://inklab.usc.edu/CommonGen/) [[paper](https://arxiv.org/abs/1911.03705)]
+    - [VitaminC, NAACL 2021](https://github.com/TalSchuster/VitaminC) [[paper](https://arxiv.org/abs/2103.08541)]
 
 ### Interpretability
 
