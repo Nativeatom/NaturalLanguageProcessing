@@ -282,8 +282,11 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 
 ### NLP Applications
 - Tasks
-    - Grammartical Error Correction [[BEA@NAACL2018](https://www.cs.rochester.edu/~tetreaul/naacl-bea13.html)][[BEA@ACL2019](https://sig-edu.org/bea/2019)][[BEA@ACL2020](https://sig-edu.org/bea/2020)][[BEA@EACL2021](https://sig-edu.org/bea/current)]
+    - Grammartical Error Correction (GEC) [[BEA@NAACL2018](https://www.cs.rochester.edu/~tetreaul/naacl-bea13.html), [BEA@ACL2019](https://sig-edu.org/bea/2019), [BEA@ACL2020](https://sig-edu.org/bea/2020), [BEA@EACL2021](https://sig-edu.org/bea/current)]
+    - Lexical Substitution
+    - Lexical Simplification
 - Model
+    - BERT-based Lexical Substitution, [[ACL 2019](https://www.aclweb.org/anthology/P19-1328/), [AAAI 2020](https://arxiv.org/pdf/2001.03521.pdf)]
 - Dataset
     - [ETS](https://www.ets.org/research/contact/data_requests/)
 
