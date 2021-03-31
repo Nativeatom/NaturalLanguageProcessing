@@ -56,10 +56,10 @@ Contributors are welcomed to work together and make it BETTER!
           - [Machine Translation Tensorflow implement](https://github.com/tensorflow/nmt)  
    - Convolutional Neuron Network
    - Attention Model
-         - Overview([Chinese](https://blog.csdn.net/BVL10101111/article/details/78470716))
+   	- Overview([Chinese](https://blog.csdn.net/BVL10101111/article/details/78470716))
    - Generative Adversial Network(GAN)
    - Transformer
-       - [Training Tips](https://arxiv.org/abs/1804.00247)
+   	- [Training Tips](https://arxiv.org/abs/1804.00247)
    - [Bidirectional Encoder Representation from Transformers(BERT)](https://arxiv.org/abs/1810.04805)  *Jacob Devlin, Google 2018*
 
 ## Blog and Tutorials
@@ -72,7 +72,7 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 - Model
     - Extractive
     - Generative
-        - [PointNet, ACL 2017](https://arxiv.org/pdf/1704.04368.pdf)
+    	- [PointNet, ACL 2017](https://arxiv.org/pdf/1704.04368.pdf)
         - [BART, ACL 2020](https://www.aclweb.org/anthology/2020.acl-main.703/)
         - [Pegasus, ICML 2020](https://arxiv.org/pdf/1912.08777.pdf)
 - Dataset
@@ -85,7 +85,7 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
     - PubMed
     - BIGPATENT
     - WikiHow
-    - Reddit TIFU
+    - Reddit TIFU (long, short)
     - AESLC
     - BillSum
 
@@ -115,12 +115,15 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 - Model
     - Hidden Markov Model (HMM)
     - Conditional Random Fields (CRFs)
+    - Finetuned Language Models
 
 ### Syntax, Parsing
 - Task
     - Constituency Parsing
+    - Dependency Parsing
     - Visual Grounded Syntactic Aquisition
 - Model
+    - [Invertible Neural Projections, EMNLP 2018](https://arxiv.org/abs/1808.09111)
     - [Unsupervised Recurrent Neural Network Grammars (URNNG), NAACL 2019](https://arxiv.org/abs/1904.03746)
     - [Compound PCFG, ACL 2019](https://arxiv.org/abs/1906.10225)
     - [Lexical Compound PCFG, TACL 2020](https://www.aclweb.org/anthology/2020.tacl-1.42/)
@@ -155,7 +158,8 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
     - Aspect Extraction
 
 ### Machine Translation
-- [Attention is all you need - Google and University of Toronto](https://arxiv.org/pdf/1706.03762.pdf)
+- Papers
+    - [Attention is all you need - Google and University of Toronto](https://arxiv.org/pdf/1706.03762.pdf)
 
 ### Text Generation
 
@@ -248,6 +252,8 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 ### Information Retrieval and Text Mining
 
 ### Language Grounding to Vision, Robotics and Beyond
+- Papers
+    - [Experience Grounds Language, EMNLP 2020](https://arxiv.org/abs/2004.10151) 
 
 ### Machine Learning for NLP
 
@@ -259,6 +265,8 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 - Tasks
     - Fact Verification
     - Commonsense Reasoning
+    - Word-level Rationales
+    - Factually Consistent Generation
 
 - Model
     - [ConceptNet, AAAI 2017](https://conceptnet.io/)
@@ -268,6 +276,7 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
     - [FEVER](https://arxiv.org/abs/1803.05355)
     - [FEVER 2.0 Shared Task, EMNLP 2019](https://www.aclweb.org/anthology/D19-6601/) [[FEVER@EMNLP2021](https://fever.ai/index.html)]
     - [CommonGen, EMNLP Finding 2020](https://inklab.usc.edu/CommonGen/)[[paper](https://arxiv.org/abs/1911.03705)]
+    - [VitaminC, NAACL 2021](https://github.com/TalSchuster/VitaminC)[[paper](https://arxiv.org/abs/2103.08541)]
 
 ### Interpretability
 
@@ -285,6 +294,10 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 - Leaderboards
     - [NLP-Progress](http://nlpprogress.com/)
     - [PaperwithCode](https://paperswithcode.com/sota)
+
+## Interesting NLP
+- [Google Books Ngram Viewer](https://books.google.com/ngrams)
+
 
 ## Package
 - Machine Learning Package and Framework
