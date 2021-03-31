@@ -130,6 +130,7 @@ Category of areas is based on tracks in ACL 2018
 ### [Sentence-level Semantics](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Sentence-level%20Semantics)
 - Tasks
    - Semantic Parsing
+       - AMR Parsing
        - Code Generation
 - Model
    - [TRANX](https://www.aclweb.org/anthology/D18-2002/)
