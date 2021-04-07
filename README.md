@@ -256,7 +256,7 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 	- [BERTScore](https://arxiv.org/pdf/1904.09675.pdf), ICLR 2020
 	- Few-shot learner
 		- [Bias in few-shot examples](https://arxiv.org/pdf/2102.09690.pdf), arXiv 2021
-	- Knowledge base [EMNLP 2019](https://www.aclweb.org/anthology/D19-1250.pdf)
+	- Knowledge base [EMNLP2019](https://www.aclweb.org/anthology/D19-1250.pdf), [Tutorial@AAAI2021](https://usc-isi-i2.github.io/AAAI21Tutorial/)
 - Dataset
     - [CommonCrawl](https://commoncrawl.org/)
     - Wiki-Text
