@@ -69,14 +69,19 @@ Contributors are welcomed to work together and make it BETTER!
 ## Topics and Tasks
 Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 ### [Summerization](https://github.com/Nativeatom/NaturalLanguageProcessing/tree/master/Summerization)
+- Task
+    - Summerization
+    - Opinion Summarization
+    - Evaluation 
 - Model
     - Extractive
     - Generative
-    	- [PointNet, ACL 2017](https://arxiv.org/pdf/1704.04368.pdf)
-        - [BART, ACL 2020](https://www.aclweb.org/anthology/2020.acl-main.703/)
-        - [Pegasus, ICML 2020](https://arxiv.org/pdf/1912.08777.pdf)
+    	- [PointNet, ACL2017](https://arxiv.org/pdf/1704.04368.pdf)
+        - [BART, ACL2020](https://www.aclweb.org/anthology/2020.acl-main.703/)
+        - [Pegasus, ICML2020](https://arxiv.org/pdf/1912.08777.pdf)
+    - Hybrid 
 - Dataset
-    - [XSum, EMNLP 2018](https://github.com/EdinburghNLP/XSum) [[paper](https://arxiv.org/abs/1808.08745)]
+    - [XSum, EMNLP2018](https://github.com/EdinburghNLP/XSum) [[paper](https://arxiv.org/abs/1808.08745)]
     - [CNN/DailyMail](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail)
     - NEWSROOM
     - Multi-News
@@ -174,8 +179,8 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
     - SPAM Classification
     - Sentiment Analysis
 - Model
-    - [CNN-sentence, EMNLP 2014](https://www.aclweb.org/anthology/D14-1181.pdf)
-    - [CharCNN, NeurIPS 2015](https://arxiv.org/pdf/1509.01626.pdf)
+    - [CNN-sentence, EMNLP2014](https://www.aclweb.org/anthology/D14-1181.pdf)
+    - [CharCNN, NeurIPS2015](https://arxiv.org/pdf/1509.01626.pdf)
 - Dataset
     - [Yelp Dataset](https://www.yelp.com/dataset/challenge)
     - [IMDB](https://www.imdb.com/interfaces/)
@@ -220,11 +225,11 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 - Tasks
 - Model
     - N-gram
-    - ELMo
+    - [ELMo, NAACL2018](https://www.aclweb.org/anthology/N18-1202.pdf)
     - GPT
-    - [GPT-2, arXiv 2019](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
-    - [GPT-3, NeurIPS 2020](https://arxiv.org/pdf/2005.14165.pdf)
-    - [BERT, NAACL-2019](https://www.aclweb.org/anthology/N19-1423/)
+    - [GPT-2, arXiv2019](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+    - [GPT-3, NeurIPS2020](https://arxiv.org/pdf/2005.14165.pdf)
+    - [BERT, NAACL2019](https://www.aclweb.org/anthology/N19-1423/)
     	- [RoBERTa, arXiv 2019](https://arxiv.org/pdf/1907.11692.pdf)
     	- [SpanBERT, TACL 2020](https://www.aclweb.org/anthology/2020.tacl-1.5/)
     	- Efficient
@@ -241,21 +246,21 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
     		- [Tutorial](https://mccormickml.com/2020/06/22/domain-specific-bert-tutorial/)
     	- Langauge Specific [[Latin BERT](https://arxiv.org/abs/2009.10053), [German BERT](https://deepset.ai/german-bert), [Italian BERT](http://ceur-ws.org/Vol-2481/paper57.pdf), [Chinese BERT](https://arxiv.org/abs/2004.13922)]
     	- [BERTology, TACL 2020](https://www.aclweb.org/anthology/2020.tacl-1.54/)
-    - [XLNet, NeurIPS 2019](https://arxiv.org/pdf/1906.08237.pdf)
-    - [MASS, ICML 2019](https://arxiv.org/pdf/1905.02450.pdf) [[code](https://github.com/microsoft/MASS)]
-    - [ELECTRA, ICLR 2020](https://openreview.net/forum?id=r1xMH1BtvB) [[code](https://github.com/google-research/electra)]
-    - [T5, JMLR 2020](https://arxiv.org/abs/1910.10683)
-    - [BART, ACL 2020](https://www.aclweb.org/anthology/2020.acl-main.703/)
+    - [XLNet, NeurIPS2019](https://arxiv.org/pdf/1906.08237.pdf)
+    - [MASS, ICML2019](https://arxiv.org/pdf/1905.02450.pdf) [[code](https://github.com/microsoft/MASS)]
+    - [ELECTRA, ICLR2020](https://openreview.net/forum?id=r1xMH1BtvB) [[code](https://github.com/google-research/electra)]
+    - [T5, JMLR2020](https://arxiv.org/abs/1910.10683)
+    - [BART, ACL2020](https://www.aclweb.org/anthology/2020.acl-main.703/)
 - Finetuning
     - Invasive (LM not fixed)
     	- Regular finetuning 
-    	- [Re-initlization for few-shot learning](https://arxiv.org/pdf/2006.05987.pdf) ICLR 2021
+    	- [Re-initlization for few-shot learning](https://arxiv.org/pdf/2006.05987.pdf) ICLR2021
     - Non-invasive (LM fixed)
-    	- [Prefix-tuning](https://arxiv.org/pdf/2101.00190.pdf), arXiv 2021
+    	- [Prefix-tuning](https://arxiv.org/pdf/2101.00190.pdf), arXiv2021
 - Language Model as
-	- [BERTScore](https://arxiv.org/pdf/1904.09675.pdf), ICLR 2020
+	- [BERTScore](https://arxiv.org/pdf/1904.09675.pdf), ICLR2020
 	- Few-shot learner
-		- [Bias in few-shot examples](https://arxiv.org/pdf/2102.09690.pdf), arXiv 2021
+		- [Bias in few-shot examples](https://arxiv.org/pdf/2102.09690.pdf), arXiv2021
 	- Knowledge base [EMNLP2019](https://www.aclweb.org/anthology/D19-1250.pdf), [Tutorial@AAAI2021](https://usc-isi-i2.github.io/AAAI21Tutorial/)
 - Dataset
     - [CommonCrawl](https://commoncrawl.org/)
@@ -271,7 +276,7 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
 
 ### Language Grounding to Vision, Robotics and Beyond
 - Papers
-    - [Experience Grounds Language, EMNLP 2020](https://arxiv.org/abs/2004.10151) 
+    - [Experience Grounds Language, EMNLP2020](https://arxiv.org/abs/2004.10151) 
 
 ### Machine Learning for NLP
 
@@ -287,8 +292,8 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
     - Factually Consistent Generation
 
 - Model
-    - [ConceptNet, AAAI 2017](https://conceptnet.io/)
-    - [COMET, ACL 2019](https://mosaickg.apps.allenai.org/) [[paper](https://www.aclweb.org/anthology/P19-1470/)]
+    - [ConceptNet, AAAI2017](https://conceptnet.io/)
+    - [COMET, ACL2019](https://mosaickg.apps.allenai.org/) [[paper](https://www.aclweb.org/anthology/P19-1470/)]
 
 - Dataset
     - [FEVER](https://arxiv.org/abs/1803.05355)
@@ -304,7 +309,7 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
     - Lexical Substitution
     - Lexical Simplification
 - Model
-    - BERT-based Lexical Substitution/GEC, [[ACL 2019](https://www.aclweb.org/anthology/P19-1328/), [AAAI 2020](https://arxiv.org/pdf/2001.03521.pdf)]
+    - BERT-based Lexical Substitution/GEC, [[ACL2019](https://www.aclweb.org/anthology/P19-1328/), [AAAI2020](https://arxiv.org/pdf/2001.03521.pdf)]
 - Dataset
     - [ETS](https://www.ets.org/research/contact/data_requests/)
 
