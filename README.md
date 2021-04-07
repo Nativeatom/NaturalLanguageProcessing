@@ -246,6 +246,17 @@ Category of areas is based on tracks in ACL 2018, ACL 2020, EMNLP 2020
     - [ELECTRA, ICLR 2020](https://openreview.net/forum?id=r1xMH1BtvB) [[code](https://github.com/google-research/electra)]
     - [T5, JMLR 2020](https://arxiv.org/abs/1910.10683)
     - [BART, ACL 2020](https://www.aclweb.org/anthology/2020.acl-main.703/)
+- Finetuning
+    - Invasive (LM not fixed)
+    	- Regular finetuning 
+    	- [Re-initlization for few-shot learning](https://arxiv.org/pdf/2006.05987.pdf) ICLR 2021
+    - Non-invasive (LM fixed)
+    	- [Prefix-tuning](https://arxiv.org/pdf/2101.00190.pdf), arXiv 2021
+- Language Model as
+	- [BERTScore](https://arxiv.org/pdf/1904.09675.pdf), ICLR 2020
+	- Few-shot learner
+		- [Bias in few-shot examples](https://arxiv.org/pdf/2102.09690.pdf), arXiv 2021
+	- Knowledge base [EMNLP 2019](https://www.aclweb.org/anthology/D19-1250.pdf)
 - Dataset
     - [CommonCrawl](https://commoncrawl.org/)
     - Wiki-Text
